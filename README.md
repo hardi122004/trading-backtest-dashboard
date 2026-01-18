@@ -1,4 +1,4 @@
-\# 📈 Trading Strategy Backtesting Dashboard
+📈 Trading Strategy Backtesting Dashboard
 
 
 
@@ -12,7 +12,7 @@ The application allows users to visualize price movements, moving averages, trad
 
 
 
-\## 🚀 Features
+🚀 Features
 
 
 
@@ -34,7 +34,7 @@ The application allows users to visualize price movements, moving averages, trad
 
 
 
-\## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 
 
@@ -54,7 +54,7 @@ The application allows users to visualize price movements, moving averages, trad
 
 
 
-\## 📂 Project Structure
+📂 Project Structure
 
 
 
@@ -84,11 +84,11 @@ trading-backtest-dashboard/
 
 
 
-\## ▶️ How to Run Locally
+▶️ How to Run Locally
 
 
 
-\### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 
 
 
@@ -102,7 +102,7 @@ cd trading-backtest-dashboard
 
 
 
-\### 2️⃣ Create virtual environment (optional but recommended)
+2️⃣ Create virtual environment (optional but recommended)
 
 
 
@@ -116,7 +116,7 @@ venv\\Scripts\\activate
 
 
 
-\### 3️⃣ Install dependencies
+3️⃣ Install dependencies
 
 
 
@@ -128,7 +128,7 @@ pip install -r requirements.txt
 
 
 
-\### 4️⃣ Run the dashboard
+4️⃣ Run the dashboard
 
 
 
@@ -140,7 +140,7 @@ streamlit run app.py
 
 
 
-\### 5️⃣ Open in browser
+5️⃣ Open in browser
 
 
 
@@ -156,7 +156,7 @@ http://localhost:8501
 
 
 
-\## 📌 Future Enhancements
+📌 Future Enhancements
 
 
 
@@ -176,7 +176,7 @@ http://localhost:8501
 
 
 
-\## 👤 Author
+👤 Author
 
 
 
