@@ -38,15 +38,15 @@ The application allows users to visualize price movements, moving averages, trad
 
 
 
-\- \*\*Python\*\*
+\- Python
 
-\- \*\*Pandas\*\* – Data processing \& analysis  
+\- Pandas – Data processing \& analysis  
 
-\- \*\*Matplotlib\*\* – Data visualization  
+\- Matplotlib – Data visualization  
 
-\- \*\*Streamlit\*\* – Interactive web dashboard  
+\- Streamlit – Interactive web dashboard  
 
-\- \*\*NumPy\*\*
+\- NumPy
 
 
 
@@ -179,8 +179,7 @@ http://localhost:8501
 👤 Author
 
 
-
-\*\*Hardi Mody\*\*  
+Hardi Mody  
 
 GitHub: https://github.com/hardi122004
 
