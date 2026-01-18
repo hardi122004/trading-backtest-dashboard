@@ -70,11 +70,11 @@ trading-backtest-dashboard/
 
 ├── reliance.py            # Stock data handling
 
-├── stock\_data.csv          # Sample dataset
+├── stock\_data.csv         # Sample dataset
 
-├── requirements.txt        # Project dependencies
+├── requirements.txt       # Project dependencies
 
-└── README.md               # Project documentation
+└── README.md              # Project documentation
 
 ```
 
